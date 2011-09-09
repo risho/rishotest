@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DATA >
+
+	<CONTENT>
+		<TABLE
+				id="G1_2"
+				table="fight"
+				group="4"
+				title="みゆき"
+				finish_sentence="みゆき４" 
+				templete_type="gosei.xml" 
+				event_type="0" 
+		/>
+		<REPLACE>
+			<message1>ime</message1>
+		</REPLACE>
+		<IMG>
+			<IMAGE_LEFT>E1.jpg</IMAGE_LEFT>
+			<IMAGE_RIGHT>E2.jpg</IMAGE_RIGHT>
+		</IMG>
+	</CONTENT >
+
+
+</DATA>
+
