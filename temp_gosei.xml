@@ -1,0 +1,19 @@
+	 <CONTENT>
+                <TABLE
+                                id="G{1}_{2}"
+                                table="fight"
+                                group="4"
+                                title="?~A??~B~F?~A~M"
+                                finish_sentence="?~A??~B~F?~A~M?~T"
+                                templete_type="gosei.xml"
+                                event_type="0"
+                />
+                <REPLACE>
+                        <message1>ime</message1>
+                </REPLACE>
+                <IMG>
+                        <IMAGE_LEFT>E{1}.jpg</IMAGE_LEFT>
+                        <IMAGE_RIGHT>E{2}.jpg</IMAGE_RIGHT>
+                </IMG>
+        </CONTENT >
+
