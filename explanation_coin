@@ -1,0 +1,12 @@
+<? require_once("header")?>
+<div style="font-size:x-small; text-align:center;" ><img src="<?=$domain?>/img/explanation.gif" /></div>
+<hr style="color:pink;background-color:pink;border:0px solid pink;margin:0.3em 0;" />
+<div style="font-size:x-small; text-align:left;" >
+<?=mce($tani,$EV,$EC)?>とはサイト内で使われるポイントのこと
+アイテムを買う事ができるよ。
+コインとは<?=$SOW?>からユーザさんに与えられるポイントのこと有料で購入できるんだ。
+<?=mce($tani,$EV,$EC)?>をコインにかえたりコインを<?=mce($tani,$EV,$EC)?>にかえたりはできないよ。
+アイテムにはコインでしか買えないものがあるよ。
+</div>
+<hr style="color:pink;background-color:pink;border:0px solid pink;margin:0.3em 0;" />
+<? require_once("footer")?>
